@@ -1,0 +1,13 @@
+10,Cash,01/04/2019 12:00:00,Desk-Pen-
+80,Cash,02/04/2019 17:26:12,Pencil-
+10,Cash,01/04/2019 12:15:13,Desk-Pen-
+60,Cash,02/04/2019 03:09:23,Pencil-
+60,Cash,01/04/2019 19:36:18,Pencil-Marker-Laminator-
+60,Cash,01/04/2019 12:59:07,Guillotine-Pen-
+60,Cash,02/04/2019 23:48:58,Pencil-
+60,Card,02/04/2019 14:06:36,Pencil-
+60,Card,01/04/2019 15:07:34,Desk-Pen-Pen-Pen-
+60,Card,01/04/2019 12:36:21,Guillotine-
+60,Card,01/04/2019 11:14:58,Hole Punch-Laminator-
+60,Card,02/04/2019 05:58:12,Stapler-Tape-
+60,Card,02/04/2019 03:15:26,Pencil-Chair-Guillotine-
